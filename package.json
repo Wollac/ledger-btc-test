@@ -11,8 +11,7 @@
     "@ledgerhq/hw-transport-node-hid": "^4.22.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/node": "^7.0.0",
-    "@babel/preset-env": "^7.0.0"
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
   }
 }
